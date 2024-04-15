@@ -1,0 +1,30 @@
+.fiyat{
+    font-size: 18px;
+    color:#333;
+}
+.indirimli{
+    text-decoration: line-through;
+    color:red
+}
+.img-container {
+    max-width: 400px;
+    max-height: 300px;
+}
+div {
+    width: auto; /* Her div'in genişliğini ayarlayın */
+    margin: 10px; /* Boşluk ekleyin */
+    display: inline-block; /* Yanyana yerleştirin */  
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rgb(198, 71, 71);
+}
+h2{
+    color: blueviolet;
+}
+body {
+    background-color: #FFF6E9; 
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
